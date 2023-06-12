@@ -3,7 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=infinitum0007" alt="infinitum0007" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+- 🔭 I’m currently working on **Python Data Visualization**
+
+- 🌱 I’m currently learning **Matplotlib , numpy**
+
+- 💬 Ask me about **Mysql , C++ , C**
+
+- 📫 How to reach me **code2002infinitum@gmail.com**
+
+- ⚡ Fun fact **i am noob**
 <p align="left">
 </p>
 
