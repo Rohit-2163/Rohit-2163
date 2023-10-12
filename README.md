@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=infinitum0007&label=Profile%20views&color=0e75b6&style=flat" alt="infinitum0007" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rohit-2163&label=Profile%20views&color=0e75b6&style=flat" alt="Rohit-2163" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=infinitum0007" alt="infinitum0007" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rohit-2163" alt="Rohit-2163" /></a> </p>
 
 - 🔭 I’m currently working on **Python Data Visualization**
 
